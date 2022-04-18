@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing my Bachelors in Mathematics Honours.
+- 🎓 Complete my Bachelors in Mathematics Honours.
 - 🔭**Full Stack Web developer** <br>
 - 🔭**MARN Stack developer** <br>
 - 🔭**Learning DevOps** <br>
