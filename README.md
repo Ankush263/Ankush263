@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Complete my Bachelors in Mathematics Honours.
+- 🎓 Complete my Bachelors in Mathematics Honours
 - 🔭**Full Stack Web developer** <br>
 - 🔭**Learning DevOps** <br>
 - 🤔 I’m looking for help in finding internship opportunities
