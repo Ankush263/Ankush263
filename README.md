@@ -1,7 +1,7 @@
 - <h1 align='center'> Hi Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> I'm Ankush</h1>
 
 
-<p align="center"><img align="center" alt="Coding" height="250" width="50%" src="https://media.giphy.com/media/3DUdtVohHNDIN5XN2m/giphy.gif"></p>
+<p align="center"><img align="center" alt="Coding" height="250" width="100%" src="https://media.giphy.com/media/3DUdtVohHNDIN5XN2m/giphy.gif"></p>
 
 
 <h3 align="center">FullStack Developer & exploring DevOps.Open Source Enthusiast. Love to learn and explore 🚀</h3>
