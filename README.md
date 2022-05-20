@@ -7,7 +7,7 @@
 <h3 align="center">FullStack Developer & exploring DevOps.Open Source Enthusiast. Love to learn and explore 🚀</h3>
 
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450px" height="300px" alt=gif align="right"> 
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450px" height="300px" alt=gif align="center"> 
 
 ## 🚀 About Me
 
