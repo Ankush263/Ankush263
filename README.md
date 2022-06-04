@@ -14,6 +14,7 @@
 - 🎓 Complete my Bachelors in Mathematics Honours
 - 🔭**Full Stack Web developer** <br>
 - 🔭**Learning DevOps** <br>
+- 🔭**Learning Web3.0** <br>
 - 🤔 I’m looking for help in finding internship opportunities
 - 📫 How to reach me **ankushbanik263@gmail.com**
 ## 📌 Connect with me <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="45px">
