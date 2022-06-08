@@ -48,6 +48,9 @@
 <!--     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
     <a target="_blank" href="https://www.ansible.com/"><img src="https://img.icons8.com/color/48/000000/ansible.png"/></a>
     <a target="_blank" href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+  <a target="_blank" href="https://docs.soliditylang.org/en/v0.8.14/"><img src="https://img.icons8.com/ios-filled/50/undefined/solidity.png"/></a>
+  
+    
 </p>
 
   
