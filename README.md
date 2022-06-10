@@ -4,7 +4,7 @@
 <p align="center"><img align="center" alt="Coding" height="250" width="100%" src="https://media.giphy.com/media/3DUdtVohHNDIN5XN2m/giphy.gif"></p>
 
 
-<h3 align="center">FullStack Developer & exploring DevOps.Open Source Enthusiast. Love to learn and explore 🚀</h3>
+<h3 align="center">FullStack Developer, exploring Web3.0 & DevOps.Open Source Enthusiast. Love to learn and explore 🚀</h3>
 
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450px" height="300px" alt=gif align="center"> 
