@@ -1,7 +1,8 @@
 - <h1 align='center'> Hi Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> I'm Ankush</h1>
 
 
-<p align="center"><img align="center" alt="Coding" height="250" width="100%" src="https://media.giphy.com/media/3DUdtVohHNDIN5XN2m/giphy.gif"></p>
+<p align="center"><img align="center" alt="Coding" height="250" width="500" src="https://media.giphy.com/media/7I8WKNoeIYdxPQzaVP/giphy.gif"></p></td>
+
 
 
 <h3 align="center">FullStack Developer, exploring Web3.0 & DevOps.Open Source Enthusiast. Love to learn and explore 🚀</h3>
@@ -48,7 +49,9 @@
 <!--     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> -->
     <a target="_blank" href="https://www.ansible.com/"><img src="https://img.icons8.com/color/48/000000/ansible.png"/></a>
     <a target="_blank" href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-    <a target="_blank" href="https://docs.soliditylang.org/en/v0.8.14/"><img src="https://img.icons8.com/ios-filled/50/undefined/solidity.png"/></a>
-  
+    <a target="_blank" href="https://docs.soliditylang.org/en/v0.8.14/"><img width="50px" src="https://github.com/Ankush263/30-Days-Solidity-Challenge/blob/master/img/sol150.png"/></a>
+    
     
 </p>
+
+
