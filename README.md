@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">FullStack Developer, exploring Web3.0 & DevOps.Open Source Enthusiast. Love to learn and explore 🚀</h3>
+<h3 align="center">Web3.0 Developer.Open Source Enthusiast. Love to learn and explore 🚀</h3>
 
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450px" height="300px" alt=gif align="center"> 
