@@ -51,8 +51,9 @@
     <a target="_blank" href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
     <a target="_blank" href="https://docs.soliditylang.org/en/v0.8.14/"><img width="50px" src="https://github.com/Ankush263/30-Days-Solidity-Challenge/blob/master/img/sol150.png"/></a>
     <a target="_blank" href="https://docs.ethers.io/v5/"><img width="60px" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png"/></a>
+    <a target="_blank" href="https://docs.ethers.io/v5/"><img width="50px" src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png"/></a>
     
-    
+   
 </p>
 
 
