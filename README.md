@@ -54,6 +54,7 @@
     <a target="_blank" href="https://docs.ethers.io/v5/"><img width="60px" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png"/></a>
     <a target="_blank" href="https://trufflesuite.com/"><img width="50px" src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png"/></a>
     <a target="_blank" href="https://hardhat.org/"><img width="50px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png"/></a>
+    <a target="_blank" href="https://hardhat.org/"><img width="50px" src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png"/></a>
    
 </p>
 
