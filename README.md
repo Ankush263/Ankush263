@@ -1,22 +1,12 @@
 - <h1 align='center'> Hi Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> I'm Ankush</h1>
 
-
-<p align="center"><img align="center" alt="Coding" height="250" width="500" src="https://media.giphy.com/media/7I8WKNoeIYdxPQzaVP/giphy.gif"></p></td>
-
-
-
-<h3 align="center">Web3.0 Developer.Open Source Enthusiast. Love to learn and explore 🚀</h3>
-
-
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="450px" height="300px" alt=gif align="center"> 
 
 ## 🚀 About Me
 
 - 🎓 Complete my Bachelors in Mathematics Honours
 - 🔭**Full Stack Web developer** <br>
-- 🔭**Learning DevOps** <br>
-- 🔭**Learning Web3.0** <br>
-- 🤔 I’m looking for help in finding internship opportunities
+- 🔭**Web3.0 developer** <br>
 - 📫 How to reach me **ankushbanik263@gmail.com**
 ## 📌 Connect with me <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="45px">
 <a href="https://twitter.com/AnkushBanik8" target="blank">
